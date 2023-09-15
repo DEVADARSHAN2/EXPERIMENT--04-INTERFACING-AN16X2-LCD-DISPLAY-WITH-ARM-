@@ -173,7 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include"lcd.h"
 
@@ -203,7 +203,7 @@ int main(void)
    
    }
 
-
+```
 
 ## Output screen shots of proteus  :
 ![Screenshot 2023-09-15 112050](https://github.com/DEVADARSHAN2/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/119432150/982e3734-a945-4b80-b676-ae7a5b2dd0cd)
